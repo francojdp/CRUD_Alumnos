@@ -1,0 +1,152 @@
+body{
+  height: 100vh;
+  
+  width: 100%;
+  background: linear-gradient(to right, grey, darkgrey);
+
+ 
+  /* background: #044b04;
+  background: -webkit-linear-gradient(to right, #0ead09, #3b640c);
+  background: linear-gradient(to right, #0ead09, #3b640c) */
+
+}
+
+h1,h3{
+  color: white;
+  text-align: center;
+  text-shadow: 0.1em 0.1em 0.2em black
+}
+
+
+.caja-index{
+  padding: 0;
+  margin: 0;
+  width:100%;
+  height: 65vh;
+  overflow: hidden;
+  position:relative;
+  
+}
+
+.textura{
+  width: 100%;
+  height: inherit;
+  
+  position: absolute;
+  z-index: 1;
+  background: linear-gradient(to left, blue, violet);
+  opacity:0.1 
+}
+.prev, .next{
+  position:absolute;
+  top:0%;
+  margin: 30px;
+}
+
+.formulario-carga{
+  margin-bottom: 10px;
+}
+
+/* Contactos */
+
+.contacto-title{
+  margin-bottom: 40px; 
+}
+
+.datos-contacto{
+  margin:auto;
+  width: 80%;
+  height: 50vh;
+  
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+  
+  border: 1px solid grey;
+  border-radius: 1%
+}
+.mapa{
+  width: 50%;
+}
+
+.direccion{
+  width: 50%;
+ 
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  /* border: 1px solid grey;
+  border-radius: 0 1% 1% 0; */
+}
+
+.dir-data{
+  font-size: 20px;
+  color: #fff;
+  text-shadow: 0.1em 0.1em 0.2em black
+  
+}
+
+iframe{
+  width:100%;
+  height: 100%;
+  
+  border-radius: 1% 0 0 1%;
+}
+.encabezados, .filtro{
+  text-align: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 16px;
+  background-color: #696969;
+  color:white;
+}
+
+.filtro{
+background-color: transparent;
+}
+
+.cursos{
+  color:#000;
+}
+
+
+footer{
+  margin-top: 10vh;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+
+}
+.pie{
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.item-pie{
+  text-align: center;
+
+}
+
+.redes{
+  padding: 10px;
+  font-size: 50px;
+  color:#222222;
+  }
+
+  .menu{
+  font-size: 1.3rem;
+}
+
+.datos{
+  text-align: center;
+}
+
+
