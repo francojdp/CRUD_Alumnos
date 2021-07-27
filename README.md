@@ -19,10 +19,10 @@ La tarea consistió en elaborar un CRUD y dejarlo operativo (con un diseño Fron
 
 * **Federico Ferrelli Mazza** (ferrelli.mazza@gmail.com)
 * **Guillermo Girolimini** (guillermogirolimini@gmail.com)
-* **Franco del Patto**  (francodelpatto@gmail.com)
+* **Franco Del Patto**  (francodelpatto@gmail.com)
 
 
 
 
 ---
-⌨️ con ❤️ por Grupo 4 😊
+⌨️ con ❤️ por el Grupo 4 de la comisión 2126 - Python 😊
